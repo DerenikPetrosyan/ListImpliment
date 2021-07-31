@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataList/DataList.iml" filepath="$PROJECT_DIR$/DataList/DataList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListImpliment.iml" filepath="$PROJECT_DIR$/ListImpliment.iml" />
+    </modules>
+  </component>
+</project>
